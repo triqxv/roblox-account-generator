@@ -14,3 +14,5 @@ node generate.js
 in your terminal.
 
 Used to generate roblox accounts. no captcha bypass, all in pure node.js
+
+![example](https://raw.githubusercontent.com/linemaster2/roblox-account-generator/main/images/example.gif)
