@@ -1,0 +1,6 @@
+{
+    "interval": 3,
+    "webhook": "insert ur webhook url here (discord)",
+    "usernames": "usernames.txt",
+    "accounts": "accounts.txt"
+}
