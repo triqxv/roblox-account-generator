@@ -15,4 +15,6 @@ in your terminal.
 
 Used to generate roblox accounts. no captcha bypass, all in pure node.js
 
+also to get announced if a new alt is generated, you have to change the webhook in config.json to your discord webhook.
+
 ![example](https://raw.githubusercontent.com/linemaster2/roblox-account-generator/main/images/example.gif)
